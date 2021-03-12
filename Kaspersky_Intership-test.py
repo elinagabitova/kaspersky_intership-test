@@ -97,10 +97,3 @@ df["approved_by_name"].value_counts()[0:10]
 
 #топ10 человек, которые предложили данные статьи
 df["suggested_by_name"].value_counts()[0:10]
-
-
-# In[ ]:
-
-
-
-
